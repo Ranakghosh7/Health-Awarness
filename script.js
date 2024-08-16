@@ -1,0 +1,1 @@
+alert("This is a non-profit website specially designed to spread awareness between people about the harmfull deseases and viruses so that they don't spread and can be cured easily  .  ");
